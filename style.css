@@ -1,5 +1,5 @@
 body {
-  font-family: Arial, sans-serif;
+  font-family: 'Open Sans', sans-serif;
   padding: 0px;
   margin: 0px;
 }
@@ -38,7 +38,7 @@ strong {
   font-weight: bold;
 }
 .ipa {
-  font-family: Gentium,GentiumAlt,DejaVu Sans,Segoe UI,Lucida Grande,Charis SIL,Doulos SIL,TITUS Cyberbit Basic,Code2000,Lucida Sans Unicode,sans-serif;
+  font-family: 'Open Sans', sans-serif;
   font-style: normal;
 }
 .limg {
