@@ -88,6 +88,12 @@ strong {
   display: table;
   clear: both;
 }
+.paperimg{
+  width: 25%;
+}
+.paperinfo{
+  width: 75%;
+}
 @media screen and (max-width: 600px) {
   .column {
     width: 100%;
