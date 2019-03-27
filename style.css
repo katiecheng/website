@@ -9,7 +9,7 @@ h2 {
   font-weight: bold;
 }
 .infoheader{
-  line-height: 1.1em;
+  border-bottom: 1px solid gray;
 }
 a {
   color: #E37222;
