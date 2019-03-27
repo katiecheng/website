@@ -13,11 +13,11 @@ h2 {
   text-decoration: none;
   background-color: #66B9Bf;
   color: #CCCCCC;
-  padding-left: 10px;
-  padding-right: 10px;
-  padding-top: 10px;
-  padding-bottom: 10px;
-  border-radius: 10px;
+  padding-left: 5px;
+  padding-right: 5px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  border-radius: 5px;
   -webkit-transition: background-color 0.13s ease-in;
   -moz-transition: background-color 0.13s ease-in;
   -o-transition: background-color 0.13s ease-in;
