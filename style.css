@@ -78,6 +78,7 @@ strong {
 }
 /* Clear floats after the columns */
 .row:after {
+  margin-top: 50px;
   content: "";
   display: table;
   clear: both;
