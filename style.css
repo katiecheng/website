@@ -68,13 +68,16 @@ strong {
 }
 .column {
   float: left;
-  padding: 20px;
   box-sizing: border-box;
 }
 .left {
+  padding-left: 20px;
+  padding-left: 10px;
   width: 30%;
 }
 .right {
+  padding-left: 10px;
+  padding-left: 20px;
   width: 70%;
 }
 /* Clear floats after the columns */
