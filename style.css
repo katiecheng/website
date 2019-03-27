@@ -64,3 +64,13 @@ strong {
 .publicationsdiv > p {
   line-height: 250%;
 }
+.column {
+  float: left;
+  padding: 20px;
+}
+.left {
+  width: 25%;
+}
+.right {
+  width: 75%;
+}
