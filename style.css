@@ -21,6 +21,7 @@ a:hover {
   text-decoration: none;
   background-color: #66B9Bf;
   color: white;
+  padding: 10px;
   -webkit-transition: background-color 0.13s ease-in;
   -moz-transition: background-color 0.13s ease-in;
   -o-transition: background-color 0.13s ease-in;
