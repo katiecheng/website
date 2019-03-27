@@ -9,6 +9,9 @@ h2 {
 a {
   color: #E37222;
 }
+a:hover {
+  color: #EEAA7B;
+}
 .header {
   font-size: 20px;
   vertical-align: middle;
