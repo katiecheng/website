@@ -2,6 +2,7 @@ body {
   font-family: 'Open Sans', sans-serif;
   padding: 0px;
   margin: 0px;
+  font-size: 12px;
 }
 h2 {
   font-family: 'Quicksand', sans-serif;
@@ -88,13 +89,16 @@ strong {
   display: table;
   clear: both;
 }
-.paperimg{
+.paperimgcol{
   width: 25%;
 }
-.paperinfo{
+.paperimg{
+  width: 95%;
+}
+.paperinfocol{
   width: 75%;
 }
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 700px) {
   .column {
     width: 100%;
   }
