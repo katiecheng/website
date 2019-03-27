@@ -67,7 +67,8 @@ strong {
 }
 .column {
   float: left;
-  /*padding: 20px;*/
+  padding: 20px;
+  box-sizing: border-box;
 }
 .left {
   width: 30%;
