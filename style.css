@@ -31,6 +31,7 @@ a:hover {
 }
 .header:hover {
   background-color: #07889B;
+  color: white;
 }
 .padlink {
   margin-top: 10px;
