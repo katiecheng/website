@@ -2,7 +2,7 @@ body {
   font-family: 'Open Sans', sans-serif;
   padding: 0px;
   margin: 0px;
-  font-size: 12px;
+  font-size: 14px;
 }
 h2 {
   font-family: 'Quicksand', sans-serif;
@@ -70,15 +70,17 @@ strong {
 .column {
   float: left;
   box-sizing: border-box;
-  padding-top: 20px;
-  padding-bottom: 20px;
 }
 .left {
+  padding-top: 20px;
+  padding-bottom: 20px;
   padding-left: 20px;
   padding-right: 10px;
   width: 30%;
 }
 .right {
+  padding-top: 20px;
+  padding-bottom: 20px;
   padding-left: 10px;
   padding-right: 20px;
   width: 70%;
